@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on open-source web development projects and backend systems.
 - 📫 How to reach me: benhuratwork@gmail.com | [LinkedIn](https://www.linkedin.com/in/benhur-santhosh-a499b826a/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love turning real-world problems into simple, working software — and I never push code without coffee ☕
+- ⚡ Fun fact: I love turning real-world problems into simple, working software and I never push code without coffee ☕
