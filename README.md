@@ -6,6 +6,5 @@ Benhur Santhosh · @coderbener
 
 ↳ open to meaningful collaborations
 
-✉ benhuratwork@gmail.com
-
-🔗 https://www.linkedin.com/in/benhursanthosh/
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:benhuratwork@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/benhur-santhosh-a499b826a/)
