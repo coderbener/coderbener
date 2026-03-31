@@ -1,8 +1,11 @@
-I don't have the time to change these!! ignore them;(
-- 👋 Hi, I’m Benhur Santhosh <@coderbener>
-- 👀 I’m interested in full-stack software development, database systems, and building practical web applications.
-- 🌱 I’m currently learning Python, Flask, React, and advanced SQL.
-- 💞️ I’m looking to collaborate on open-source web development projects and backend systems.
-- 📫 How to reach me: benhuratwork@gmail.com | [LinkedIn](https://www.linkedin.com/in/benhur-santhosh-a499b826a/)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love turning real-world problems into simple, working software and I never push code without coffee ☕
+Benhur Santhosh · @coderbener
+
+→ builds solutions to real-world problems
+→ explores and researches emerging technologies
+→ focused on innovation + practical impact
+
+↳ open to meaningful collaborations
+
+✉ benhuratwork@gmail.com
+
+🔗 https://www.linkedin.com/in/benhursanthosh/
